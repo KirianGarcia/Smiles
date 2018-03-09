@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://C:\Users\Gouden\Documents\Trabajitos\Android\Smiles\SmileApp.iml" filepath="C:\Users\Gouden\Documents\Trabajitos\Android\Smiles\SmileApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Smiles.iml" filepath="$PROJECT_DIR$/.idea/Smiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smiles.iml" filepath="$PROJECT_DIR$/Smiles.iml" />
+      <module fileurl="file://D:\Users\Kirian\Documents\GitHub\Smiles\.idea\Smiles.iml" filepath="D:\Users\Kirian\Documents\GitHub\Smiles\.idea\Smiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\Gouden\Documents\Trabajitos\Android\Smiles\app\app.iml" filepath="C:\Users\Gouden\Documents\Trabajitos\Android\Smiles\app\app.iml" />
     </modules>

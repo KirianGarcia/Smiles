@@ -4,7 +4,11 @@ import android.graphics.drawable.AnimatedVectorDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
+
+import com.getbase.floatingactionbutton.FloatingActionButton;
+import com.getbase.floatingactionbutton.FloatingActionsMenu;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -32,6 +36,14 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+
+
+
+        final FloatingActionsMenu menuMultipleActions = (FloatingActionsMenu) findViewById(R.id.multiple_actions);
+
+
+
+
 
 
     }
